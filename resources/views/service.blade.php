@@ -39,39 +39,42 @@
     <div class="container">
       <div class="heading_container">
         <h2>
-          Our Services
+          Services Offered
         </h2>
-        <img src="images/plug.png" alt="">
+        {{-- <img src="images/plug.png" alt=""> --}}
       </div>
 
       <div class="service_container">
-        <div class="box">
+
+        <div class="box active">
           <div class="img-box">
             <img src="images/s1.png" class="img1" alt="">
           </div>
           <div class="detail-box">
             <h5>
-              Equipment installation
+              Chicks
             </h5>
             <p>
               There are many variations of passages of Lorem Ipsum available,
             </p>
           </div>
         </div>
-        <div class="box active">
+
+        <div class="box">
           <div class="img-box">
             <img src="images/s2.png" class="img1" alt="">
           </div>
           <div class="detail-box">
             <h5>
-              Windmill Energy
+              Chicks feed additive
             </h5>
             <p>
               There are many variations of passages of Lorem Ipsum available,
             </p>
           </div>
         </div>
-        <div class="box">
+
+        {{-- <div class="box">
           <div class="img-box">
             <img src="images/s3.png" class="img1" alt="">
           </div>
@@ -84,6 +87,7 @@
             </p>
           </div>
         </div>
+
         <div class="box ">
           <div class="img-box">
             <img src="images/s4.png" class="img1" alt="">
@@ -97,6 +101,7 @@
             </p>
           </div>
         </div>
+
         <div class="box">
           <div class="img-box">
             <img src="images/s5.png" class="img1" alt="">
@@ -109,13 +114,16 @@
               There are many variations of passages of Lorem Ipsum available,
             </p>
           </div>
-        </div>
-      </div>
-      <div class="btn-box">
+        </div> --}}
+
+      {{-- </div> closes service container --}}
+
+      {{-- <div class="btn-box">
         <a href="">
           Read More
         </a>
-      </div>
+      </div> --}}
+
     </div>
   </section>
   <!-- end service section -->

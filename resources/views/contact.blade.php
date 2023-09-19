@@ -43,8 +43,15 @@
         <h2>
           Contact Us
         </h2>
-        <img src="images/plug.png" alt="">
+        {{-- <img src="images/plug.png" alt=""> --}}
       </div>
+
+      <p>
+        <h4>Get in Touch</h4>
+ We're excited to be a part of your poultry farming adventure. For inquiries,
+ orders, or to learn more about how Reap Industries Limited can support your
+  business, contact us.
+      </p>
     </div>
     <div class="container">
       <div class="row">

@@ -41,12 +41,17 @@
           <div class="col-md-6 ">
             <div class="detail_box">
               <h1>
-                Premier <br>
-                Chicken <br>
-                Providers
+                Premium <br>
+                Day-old chicks &<br>
+                Chick feed additives
+                Suppliers
               </h1>
               <p>
-                Discover premium meat and eggs at our poultry farm. We specialize in top-quality meat chickens and fresh egg-laying hens, committed to excellence and sustainable practices. Taste the difference with every bite.
+                From layers and broilers to specialty breeds like Sasso, 
+                Kroilers, and Roasters, we provide a wide array of day-old
+                chicks. Additionally , our selection of additives, including 
+                vitamins, acidifiers, and more , caters for every aspect of 
+                poultry nutrition.
               </p>
               <a href="/contact" class="">
                 Contact Us

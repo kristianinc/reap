@@ -4,7 +4,7 @@
       <div class="container">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="/">
-            <img src="images/logo.png" alt="">
+            {{-- <img src="images/logo.png" alt=""> --}}
             <span>
               Reap Industries
             </span>
@@ -19,7 +19,7 @@
             <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
               <ul class="navbar-nav  ">
                 <li class="nav-item ">
-                  <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+                  <a class="nav-link" href="/">Home </a>
                 </li>
                 <li class="nav-item ">
                   <a class="nav-link" href="/about"> About</a>
@@ -27,9 +27,9 @@
                 <li class="nav-item">
                   <a class="nav-link" href="/service"> Service </a>
                 </li>
-                <li class="nav-item">
+                {{-- <li class="nav-item">
                   <a class="nav-link" href="/blog"> Blog </a>
-                </li>
+                </li> --}}
                 <li class="nav-item">
                   <a class="nav-link" href="/contact">Contact </a>
                 </li>
