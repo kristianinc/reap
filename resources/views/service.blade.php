@@ -48,28 +48,28 @@
 
         <div class="box active">
           <div class="img-box">
-            <img src="images/s1.png" class="img1" alt="">
+            <img src="images/chickies.jpeg" class="img1">
           </div>
           <div class="detail-box">
             <h5>
-              Chicks
+              Day-Old Chicks
             </h5>
             <p>
-              There are many variations of passages of Lorem Ipsum available,
+              We have day old chicks available in large numbers.
             </p>
           </div>
         </div>
 
-        <div class="box">
+        <div class="box active">
           <div class="img-box">
-            <img src="images/s2.png" class="img1" alt="">
+            <img src="images/feed.jpeg" class="img1" alt="">
           </div>
           <div class="detail-box">
             <h5>
-              Chicks feed additive
+              Chick Feed Additives
             </h5>
             <p>
-              There are many variations of passages of Lorem Ipsum available,
+              Premium chick feed additives in stock.
             </p>
           </div>
         </div>
